@@ -2,7 +2,7 @@
  * 작성자: 김지애
  * 문제: 각 월에 따른 한달 날짜 수를 day 변수 값으로 출력하시오. 단 2월은 28일로 합니다.
  */
-package switchcase;
+package chapter4.switchcase;
 
 import java.util.Scanner;
 
